@@ -19,7 +19,7 @@ Tip Calculator app made using kotlin.<br>
 
 
 ### Output
--> The app looks like the following in light and dark mode respectively.<br>
+-> The user interface looks like the following in light and dark mode respectively.<br>
 <img alt="output"  src="output.png" />
 
 ### Developed by:
