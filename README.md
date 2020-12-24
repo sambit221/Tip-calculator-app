@@ -5,7 +5,6 @@ Tip Calculator app made using kotlin.<br>
 
 
 ### Tools and Languages Used:
-<img align="left" alt="VS Code" width="26px" src="vscode.png" />
 <img align="left" alt="Python" width="26px" src="kotlin.png" />
 <img align="left" alt="pip" width="26px" height="34px" src="android.png" />
 <br>
