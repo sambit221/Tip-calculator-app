@@ -5,13 +5,13 @@ Tip Calculator app made using kotlin.<br>
 
 
 ### Tools and Languages Used:
-<img align="left" alt="Python" width="26px" src="kotlin.png" />
-<img align="left" alt="pip" width="26px" height="34px" src="android.png" />
+<img align="left" alt="kotlin" width="26px" src="kotlin.png" />
+<img align="left" alt="Android Studio" width="26px" height="34px" src="android.png" />
 <br>
 
 ## Getting Started
----------------
-1. Learn to kode using kotlin<br>
+----------------------
+1. Learn to code using kotlin<br>
 2. Install Android Studio, if you don't already have it.<br>
 3. Download the code from the given github repository.<br>
 4. Import the code into Android Studio.<br>
